@@ -1,0 +1,2 @@
+# 创建空文件夹占位符
+echo "" > results/.gitkeep
